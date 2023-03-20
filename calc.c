@@ -5,7 +5,7 @@ int main(void)
     //step 1: karna kya hai
     printf("Pick one\n");
     printf("1.Division\n 2.Multiplication\n 3.Addition\n 4.Subtraction\n 5.Okay, I am done playing.");
-    printf("Your choice:");
+    printf("Your choice:\n");
     int choice;
     scanf("%d", &choice);
     //Now our dumb pc knows what the user wants to do with his life.
